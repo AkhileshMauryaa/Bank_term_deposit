@@ -1,2 +1,2 @@
-# Bank_term_deposit
+# Telecom_Customer_churn_prediction
 Machine Learning
